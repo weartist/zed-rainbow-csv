@@ -1,0 +1,11 @@
+id = "rainbow-csv"
+name = "Rainbow CSV"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hans <weartistt@gmail.com>"]
+description = "Highlight CSV with different rainbow colors to make them more readable"
+repository = "https://github.com/weartist/zed_rainbow_csv"
+
+[grammars.csv]
+repository = "https://github.com/weartist/rainbow-csv-tree-sitter"
+commit = "9e7f9c6fae77a29b15058beb42b7eda594cdb569"
