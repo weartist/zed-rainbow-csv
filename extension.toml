@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Hans <weartistt@gmail.com>"]
 description = "Highlight CSV with different rainbow colors to make them more readable"
-repository = "https://github.com/weartist/zed_rainbow_csv"
+repository = "https://github.com/weartist/zed-rainbow-csv"
 
 [grammars.csv]
 repository = "https://github.com/weartist/rainbow-csv-tree-sitter"
