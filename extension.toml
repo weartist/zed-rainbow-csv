@@ -9,3 +9,7 @@ repository = "https://github.com/weartist/zed-rainbow-csv"
 [grammars.csv]
 repository = "https://github.com/weartist/rainbow-csv-tree-sitter"
 commit = "9e7f9c6fae77a29b15058beb42b7eda594cdb569"
+
+[grammars.tsv]
+repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
+commit = "c212193d2b216b07a30591be54bf98bb4d48f262"

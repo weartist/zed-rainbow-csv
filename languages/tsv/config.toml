@@ -1,0 +1,3 @@
+name = "Rainbow TSV"
+grammar = "tsv"
+path_suffixes = ["tsv"]
