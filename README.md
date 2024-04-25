@@ -9,7 +9,10 @@ light theme:
 dark theme:
 <img width="1358" alt="image" src="https://github.com/weartist/zed_rainbow_csv/assets/17105034/7a24c202-0b14-4382-97c2-fb710348faea">
 
+for tsv, look like this:
+<img width="1356" alt="image" src="https://github.com/weartist/zed-rainbow-csv/assets/17105034/06dded71-1fed-4ca3-be96-094bb220f59c">
+
+
 
 roadmap:
-supported TSV 
 Alignment of each column is supported
