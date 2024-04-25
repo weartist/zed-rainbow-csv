@@ -1,4 +1,5 @@
 # zed_rainbow_csv
+
 🌈Rainbow CSV - zed extension: Highlight CSV with different rainbow colors to make them more readable
 
 Since at the moment zed only opens up some APIs for tree-sitter, so I wrote a special csv-tree-sitter that (somewhat hardcoded).
@@ -12,7 +13,10 @@ dark theme:
 for tsv, look like this:
 <img width="1356" alt="image" src="https://github.com/weartist/zed-rainbow-csv/assets/17105034/06dded71-1fed-4ca3-be96-094bb220f59c">
 
+## Sources of inspiration:
 
+https://github.com/mechatroner/vscode_rainbow_csv
 
-roadmap:
+## roadmap:
+
 Alignment of each column is supported
