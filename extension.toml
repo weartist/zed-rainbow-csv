@@ -7,8 +7,8 @@ description = "Highlight CSV with different rainbow colors to make them more rea
 repository = "https://github.com/weartist/zed-rainbow-csv"
 
 [grammars.csv]
-repository = "https://github.com/weartist/rainbow-csv-tree-sitter"
-commit = "896e6d09b23a1b0d87e45bf97ca34a249f41495c"
+repository = "https://github.com/versecafe/rainbow-csv-tree-sitter"
+commit = "d3dbf916446131417e4c2ea9eb8591b23b466d27"
 
 [grammars.tsv]
 repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
